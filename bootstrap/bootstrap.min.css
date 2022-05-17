@@ -136,19 +136,19 @@
 
 .bg-001 {
   height: 100vh;
-  background-image: url(/image/index1.jpg);
+  background-image: url(../image/index1.jpg);
   background-size: cover;
 }
 
 .bg-002 {
   height: 100vh;
-  background-image: url(/image/index2.jpg);
+  background-image: url(../image/index2.jpg);
   background-size: cover;
 }
 
 .bg-003 {
   height: 100vh;
-  background-image: url(/image/index3.jpg);
+  background-image: url(../image/index3.jpg);
   background-size: cover;
 }
 
@@ -158,7 +158,7 @@
 
 /* --------------------------------------------------- Page 2 ----------------------------------------------- */
 .page-2 {
-  background-image: url(/image/image_4.jpg);
+  background-image: url(../image/image_4.jpg);
   background-size: cover;
   height: 100vh;
 }
@@ -179,7 +179,7 @@
 }
 
 .page-3 {
-  background-image: url(/image/image_5.jpg);
+  background-image: url(../image/image_5.jpg);
   background-size: cover;
   /* border: solid red; */
 }
