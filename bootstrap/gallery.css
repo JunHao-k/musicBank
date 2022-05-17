@@ -99,6 +99,10 @@ body{
   padding-right: 0px;
 }
 
+.gallery{
+  transition: 0.25s ease;
+}
+
 img:hover{ 
     transform: translate3d(0px, -10px, 0px);
     cursor: pointer;
